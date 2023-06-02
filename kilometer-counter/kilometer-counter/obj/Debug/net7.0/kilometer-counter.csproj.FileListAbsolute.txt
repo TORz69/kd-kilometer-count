@@ -1,0 +1,15 @@
+C:\Users\ormak\Documents\GitHub\kd-kilometer-count\kilometer-counter\kilometer-counter\obj\Debug\net7.0\kilometer-counter.csproj.AssemblyReference.cache
+C:\Users\ormak\Documents\GitHub\kd-kilometer-count\kilometer-counter\kilometer-counter\obj\Debug\net7.0\kilometer-counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ormak\Documents\GitHub\kd-kilometer-count\kilometer-counter\kilometer-counter\obj\Debug\net7.0\kilometer-counter.AssemblyInfoInputs.cache
+C:\Users\ormak\Documents\GitHub\kd-kilometer-count\kilometer-counter\kilometer-counter\obj\Debug\net7.0\kilometer-counter.AssemblyInfo.cs
+C:\Users\ormak\Documents\GitHub\kd-kilometer-count\kilometer-counter\kilometer-counter\obj\Debug\net7.0\kilometer-counter.csproj.CoreCompileInputs.cache
+C:\Users\ormak\Documents\GitHub\kd-kilometer-count\kilometer-counter\kilometer-counter\bin\Debug\net7.0\kilometer-counter.exe
+C:\Users\ormak\Documents\GitHub\kd-kilometer-count\kilometer-counter\kilometer-counter\bin\Debug\net7.0\kilometer-counter.deps.json
+C:\Users\ormak\Documents\GitHub\kd-kilometer-count\kilometer-counter\kilometer-counter\bin\Debug\net7.0\kilometer-counter.runtimeconfig.json
+C:\Users\ormak\Documents\GitHub\kd-kilometer-count\kilometer-counter\kilometer-counter\bin\Debug\net7.0\kilometer-counter.dll
+C:\Users\ormak\Documents\GitHub\kd-kilometer-count\kilometer-counter\kilometer-counter\bin\Debug\net7.0\kilometer-counter.pdb
+C:\Users\ormak\Documents\GitHub\kd-kilometer-count\kilometer-counter\kilometer-counter\obj\Debug\net7.0\kilometer-counter.dll
+C:\Users\ormak\Documents\GitHub\kd-kilometer-count\kilometer-counter\kilometer-counter\obj\Debug\net7.0\refint\kilometer-counter.dll
+C:\Users\ormak\Documents\GitHub\kd-kilometer-count\kilometer-counter\kilometer-counter\obj\Debug\net7.0\kilometer-counter.pdb
+C:\Users\ormak\Documents\GitHub\kd-kilometer-count\kilometer-counter\kilometer-counter\obj\Debug\net7.0\kilometer-counter.genruntimeconfig.cache
+C:\Users\ormak\Documents\GitHub\kd-kilometer-count\kilometer-counter\kilometer-counter\obj\Debug\net7.0\ref\kilometer-counter.dll
